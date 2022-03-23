@@ -1,2 +1,1 @@
-# proyecto22
-tiro al blanco etapa 1
+# Plantilla-del-proyecto-C22
